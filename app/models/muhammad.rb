@@ -1,0 +1,2 @@
+class Muhammad < ApplicationRecord
+end
